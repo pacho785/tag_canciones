@@ -1,0 +1,61 @@
+.titulo1{
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+.titulo2{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+.titulo3{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th{
+    background-color: green;
+    color: white;
+}
+.table td:hover{
+    background-color: rgb(80, 220, 255);
+    color: white;
+}
+table th:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+button{
+    background-color: red;
+    color: azure;
+}
+.td{
+    font-weight: bold;
+}
+body{
+    background-image: url(https://media.tenor.com/5FmfYNNPcwQAAAAM/dance-music.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+caption{
+    font-size: 20px;
+    font-family: 'Shantell Sans', cursive;
+}
+table{
+    font-family: 'Shantell Sans', cursive;
+}

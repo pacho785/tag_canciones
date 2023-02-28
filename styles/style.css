@@ -1,0 +1,50 @@
+h1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Shantell Sans', cursive;
+}
+body{
+    background-image: url(https://st2.depositphotos.com/4966263/7336/v/950/depositphotos_73363599-stock-illustration-music-set-seamless-pattern.jpg);
+}
+h2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Shantell Sans', cursive;
+}
+li{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+h3{
+    background-color: white;
+}
+button{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+}
+table{
+    background-color: rgb(255, 255, 255);
+}
+.table th{
+    background-color: green;
+    color: white;
+}
+.table td:hover{
+    background-color: rgb(80, 220, 255);
+    color: white;
+}
+table th:hover{
+    background-color: rgb(255, 0, 0);
+    color: white; 
+}
+caption{
+    font-family: 'Shantell Sans', cursive;
+    background-color: white;
+     }
+     button{
+        color: black;
+     }
